@@ -1,4 +1,4 @@
-# Burak.py---Dosya-Ay-klama-Arac-
+# Burak.py---Dosya-Ayiklama
 Dosya uzantısı girerek dosyalarınızı ayıklayabilirsiniz. ( Örn  .png ) PNG adında klasör oluşturup dosyaları bu klasöre gönderir.
 
 Not: Nerede dosya ayıklamak istiyorsanız exe yi orda çalıştırın.
